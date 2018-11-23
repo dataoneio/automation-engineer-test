@@ -15,7 +15,7 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ## Technical Test
 
-We have a demo website setup for our upcoming product ![Shoppr - A Customer Science Platform for E-Commerce](https://shoppr.ai). You'll receive an email with the demo site url and credentials for the same. 
+We have a demo website setup for our upcoming product [Shoppr - A Customer Science Platform for E-Commerce](https://shoppr.ai). You'll receive an email with the demo site url and credentials for the same. 
 The Technical test consists of 2 tasks:
 
 1. Write the step definitions for the below scenario.
